@@ -1,0 +1,8 @@
+a video downloader script similar in idea to the infamous youtube-dl,
+but for the escapist's video content (http://www.escapistmagazine.com/videos/). 
+
+- uses download.py (see https://github.com/tikki/download)
+- includes a sample script (zero-punk.py) that rips the entire zero punctuation catalogue.
+
+PLEASE NOTE:
+this is far from perfect and there's lots of room for improvement of these scripts!
